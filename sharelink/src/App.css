@@ -1,0 +1,16 @@
+:root{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /* margin-top: 70rem; */
+}
+
+.button{
+  margin-top: 10px;
+}
+
+/* .input{
+  margin-top: 10px;
+} */
+
